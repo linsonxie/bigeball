@@ -1,4 +1,4 @@
-package com.xsn.bigeball;
+package com.xsn.bigeball.view.activity;
 
 import android.os.Bundle;
 import android.support.design.widget.AppBarLayout;
@@ -10,6 +10,8 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+
+import com.xsn.bigeball.R;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
